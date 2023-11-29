@@ -1,5 +1,7 @@
-import 'package:everytime/ui/board_page/free_board_page.dart';
+import 'package:everytime/ui/board_page/freeBoard.dart';
 import 'package:flutter/material.dart';
+
+import 'board_page/free_board_page.dart';
 
 class BoardPage extends StatefulWidget {
   const BoardPage({Key? key}) : super(key: key);

@@ -1,6 +1,9 @@
-import 'package:everytime/ui//board_page/free_board_detail_page.dart';
-import 'package:everytime/ui/board_page/free_board_write_page.dart';
+import 'package:everytime/ui/board_page/freeBoardDetail.dart';
+import 'package:everytime/ui/board_page/freeBoardWrite.dart';
 import 'package:flutter/material.dart';
+
+import 'free_board_detail_page.dart';
+import 'free_board_write_page.dart';
 //import 'package:everytime/model/Post.dart';
 
 //db로 대체해야함.
